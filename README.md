@@ -3,7 +3,7 @@ Data Exploration using SQL
 
 
 ## Project Motivation 
-***
+
 The COVID-19 pandemic has affected the entire world, and the United States is no exception. The goal of this project was to identify high-risk states for COVID-19 outbreaks and find potential solutions to reduce the risk. 
 
 The motivation for analyzing high-risk areas is to identify potential interventions that can reduce the spread of the virus and protect individuals and communities. By analyzing mask usage in high-risk areas, researchers can gain insights into the effectiveness of public health messaging and interventions. The analysis of vaccination trends between different states is also important in identifying areas that may need additional resources or support to ensure that they receive the vaccine.
@@ -17,7 +17,7 @@ The motivation for analyzing high-risk areas is to identify potential interventi
 
 ***
 ## Data Source 
-***
+
 In our COVID-19 analysis project, we recognize the critical role of diverse datasets in navigating today's data-driven business landscape. Amid the pandemic, we leveraged datasets sourced from platforms like Kaggle and GitHub to address the pressing issues of mask usage and vaccine distribution.
 
 We carefully selected data to ensure relevance, accuracy, and up-to-date information, providing us with a comprehensive dataset for our analysis.
@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/mpeteuil/nytimes-covid-19-data
 
 ***
 ## Results 
-***
+
 
 ### Key Conclusions:
 - Higher vaccination rates mitigate COVID-19 risk.
