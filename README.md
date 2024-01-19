@@ -23,8 +23,11 @@ In our COVID-19 analysis project, we recognize the critical role of diverse data
 We carefully selected data to ensure relevance, accuracy, and up-to-date information, providing us with a comprehensive dataset for our analysis.
 
 Datasets
+
 https://github.com/govex/COVID-19/tree/master/data_tables/testing_data
+
 https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data/us_data/time_series
+
 https://www.kaggle.com/datasets/mpeteuil/nytimes-covid-19-data
 
 
